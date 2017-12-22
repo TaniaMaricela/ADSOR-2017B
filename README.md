@@ -7,7 +7,7 @@
 </p>
 
 ### Tema : `Manuales de Prácticas de Laboratorio` 
-### Fecha : `2016-11-07`
+### Fecha : `2017-12-21`
 ### Estudiante : `Tania Maricela Guamushig Aimacaña`
 ### Profesor : `Iván Carrera`
 ### Corresponde a : `I Bimestre`
